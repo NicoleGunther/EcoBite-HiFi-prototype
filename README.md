@@ -1,1 +1,1 @@
-# EcoBite-UX-UI-prototype
+# EcoBite-HiFi-prototype
